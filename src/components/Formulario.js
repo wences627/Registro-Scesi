@@ -28,7 +28,7 @@ class Formulario extends Component{
     render(){
         return(
             <form onSubmit={this.crearUsuario}>
-                <h2>Agrega tus gastos aqui</h2>
+                <h2>Agrega tus datos aqui</h2>
 
                 <div className="campo">
                     <label>Nombre de Miembro</label>
